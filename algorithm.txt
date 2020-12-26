@@ -1,0 +1,14 @@
+isNull()
+step 1 : start procedure isNull()
+step 2 :   IF frond == -1 and rear == -1
+             return 1
+step 3 :   ELSE
+             return 0
+step 4 :   END OF IF
+step 5 : stop procedure
+
+insertFrond(value)
+step 1 : strt procedure insertFrond(value)
+step 2 :  IF isFull()==1
+step 3 :    IF(isNull()==1)
+                
